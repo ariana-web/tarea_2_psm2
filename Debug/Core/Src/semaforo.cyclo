@@ -1,0 +1,2 @@
+../Core/Src/semaforo.c:9:6:Semaforo_Init	1
+../Core/Src/semaforo.c:14:6:Semaforo_Update	13
